@@ -11,9 +11,9 @@ My final year project in University Teknologi Malaysia (UTM), build in Unity wit
 - ❤️ Lives system to reduce frustration
 
 # Gameplay
-![1](gitvisuals/AvatarCreater-1.gif)
-![2](gitvisuals/gameplay-1.gif)
-![3](gitvisuals/Leaderboard-1-ezgif.com-video-to-gif-converter.gif)
+![1](gitvisual/AvatarCreater-1.gif)
+![2](gitvisual/gameplay-1.gif)
+![3](gitvisual/Leaderboard-1-ezgif.com-video-to-gif-converter.gif)
 
 # Future Improvement
 - port to ios environment
